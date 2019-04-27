@@ -2,11 +2,12 @@
 layout: post
 title: Threaded Woes
 categories: java
+excerpt_separator: <!--more-->
 ---
 
-## The Problem
-
 I'd been banging my head on these logging entries for days. Our recently added audit logs had a frustrating phenomenon; these unrelated strings were ending up in the "object" field when we shouldn't have a value populated there at all.
+
+<!--more-->
 
 Working with Spring, mind you, the class looked something like this:
 

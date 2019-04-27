@@ -2,9 +2,14 @@
 layout: post
 title: Way Too Much
 categories: updates
+excerpt_separator: <!--more-->
 ---
 
-It occurs to me; I do way too much. Take this week for instance: I worked extra a few extra hours, brewed after the sun went down, spent some hours rehabbing this site, and even beta testing a new version of a mobile game. That said, I've been considering the kinds of things I want to talk about here, and it's far more broad than simply programming. Here are a few of the things I'll hope to be discussing here:
+It occurs to me; I do way too much. Take this week for instance: I worked extra a few extra hours, brewed after the sun went down, spent some hours rehabbing this site, and even beta testing a new version of a mobile game. That said, I've been considering the kinds of things I want to talk about here, and it's far more broad than simply programming. 
+
+<!--more-->
+
+Here are a few of the things I'll hope to be discussing here:
 
 * Programming Theory &amp; Application
 * Beer Brewing

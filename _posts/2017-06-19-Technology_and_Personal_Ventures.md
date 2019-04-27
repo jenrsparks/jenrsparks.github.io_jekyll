@@ -2,9 +2,12 @@
 layout: post
 title: Technology and Personal Ventures
 categories: updates
+excerpt_separator: <!--more-->
 ---
 
 Today, some organizational and internal turmoil reminded me that I am not as settled in my position as I necessarily assume. There is, at the drop of a hat, always the opportunity to move to a different position, or find some new project for which my current toolset is not the best solution. For all I know, I could be asked to help write control software for an Android based piece of hardware tomorrow, or find myself knee-deep in a full application rewrite next month.
+
+<!--more-->
 
 So instead of being settled, comfortable, one might even say _lazy_, I've decided to at least dip a toe in the waters of some programming languages and frameworks that I've not yet encountered. To start, I'll be working my way through the [Kotlin Koans](https://try.kotlinlang.org), then perhaps even stretching myself into the [Advent of Code](http://adventofcode.com/) exercises.
 

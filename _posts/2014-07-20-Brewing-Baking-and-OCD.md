@@ -2,11 +2,14 @@
 layout: post
 title: Brewing, Baking, and OCD
 categories: craft
+excerpt_separator: <!--more-->
 ---
 
 ## Saturday Brewing
 
 The [Amber After Midnight]({% post_url 2014-07-05-Late-Night-Adventures-with-Homebrew %}) batch, once ready to drink, was a knock-out hit. We agreed that the Chinook flavor wasn't necessarily the best profile, though I got some serious lovers of the profile it built. After some consideration of what our Local Homebrew Store had in stock as far as hops go, we settled on a Sterling for bittering and Fuggle to get an earthy, nutty, and lightly flowery profile. While it's extremely basic, it's also hitting the core hops to get a good grasp on our groundings so we can build up. Plus, they didn't list the rotational hops on their site and it was around 11pm when we were doing this.
+
+<!--more-->
 
 With some guidance from my fellow brewers Jason and Ben, we've also been getting a better understanding of the advantages and disadvantages of using a malt extract. Instead of using an LME Amber, we shifted to doubling the LME Light and the Crystal 40&deg;L both.
 

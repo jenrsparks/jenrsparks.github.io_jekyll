@@ -2,9 +2,12 @@
 layout: default
 title: Mapping a List to Numbered Fields
 categories: java
+excerpt_separator: <!--more-->
 ---
 
 One of my oh-so-favorite (*cough*) things to do lately in Java has been mapping one type of object to another with no particular transformation. Among these has been the act of taking a list and shifting its contents into a series of fields, depending on how many items are availble in the list. It's been driving me nuts to consider using nested if statements, as such:
+
+<!--more-->
 
 {% highlight java %}
     ArbitraryTarget target = new ArbitraryObject();

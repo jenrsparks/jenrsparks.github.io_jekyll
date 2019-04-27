@@ -2,9 +2,12 @@
 layout: post
 title: Late Night Adventures with Homebrew
 categories: craft
+excerpt_separator: <!--more-->
 ---
 
 I know I've mentioned I do too much, but this one felt like taking it to an extreme. Since there weren't enough hours in the day, my last brew started at around midnight to help Mike with his first batch. It was a traditional American Amber, based on the recipe from Brew Your Own's [The 10 Easiest Beer Styles](http://byo.com/stories/beer-styles/item/1459-the-10-easiest-beer-styles)' Outback Amber Ale. Instead of the Crystal 135&deg; L, we picked up ¾ lbs of Special B. The resulting tastiness was a pretty traditional amber, but what really threw me was the grassy flavor at the end; turns out the Chinook hops carried some herbal notes that neither of us were expecting, but it's grown on us both.
+
+<!--more-->
 
 The recipe, if you care to check it out, can be found on Brewtoad under the name [Amber After Midnight](https://www.brewtoad.com/recipes/amber-after-midnight). I generally keep [all my recipes](https://www.brewtoad.com/users/42827). here, so if you're interested, feel free to browse around. I also recommend the site in general; while it's somewhat young feature-wise, I have reason to believe that as it goes forward it will begin to gain some maturity and further adoption.
 

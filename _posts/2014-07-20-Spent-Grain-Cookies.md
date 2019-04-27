@@ -2,9 +2,12 @@
 layout: post
 title: Spent Grain Cookies
 categories: craft
+excerpt_separator: <!--more-->
 ---
 
 After making my spent grain flour last weekend, I was simply aching to get some baking in with it - not to mention the friends bugging me to make them. I decided on the [Spent Grain Peanut Butter Cookies](http://brooklynbrewshop.com/themash/recipe-spent-grain-peanut-butter-cookies/), recipe courtesy of [Brooklyn Brew Shop](http://brooklynbrewshop.com/)'s [The Mash](http://brooklynbrewshop.com/themash).
+
+<!--more-->
 
 Upon mixing the ingredients, I was convinced the batter needed water, or milk, or maybe another egg. The consistency was just all wrong, but I decided to trust the recipe and forged ahead.
 
