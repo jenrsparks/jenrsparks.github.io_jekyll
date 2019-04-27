@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rebooting the System
-categories: [updates]
+categories: updates
 ---
 
 It's been a while, to say the least. Three years, as a matter of fact. I had big plans for this place - projects, a dumping ground for programming exploration and demos and typographical experimentation.

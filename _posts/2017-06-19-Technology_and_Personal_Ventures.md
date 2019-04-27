@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Technology and Personal Ventures
-categories: [updates, programming, personal]
+categories: updates
 ---
 
 Today, some organizational and internal turmoil reminded me that I am not as settled in my position as I necessarily assume. There is, at the drop of a hat, always the opportunity to move to a different position, or find some new project for which my current toolset is not the best solution. For all I know, I could be asked to help write control software for an Android based piece of hardware tomorrow, or find myself knee-deep in a full application rewrite next month.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spent Grain Cookies
-categories: [baking]
+categories: craft
 ---
 
 After making my spent grain flour last weekend, I was simply aching to get some baking in with it - not to mention the friends bugging me to make them. I decided on the [Spent Grain Peanut Butter Cookies](http://brooklynbrewshop.com/themash/recipe-spent-grain-peanut-butter-cookies/), recipe courtesy of [Brooklyn Brew Shop](http://brooklynbrewshop.com/)'s [The Mash](http://brooklynbrewshop.com/themash).

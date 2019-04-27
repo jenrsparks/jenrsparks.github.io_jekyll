@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Brewing, Baking, and OCD
-categories: [homebrew, craft]
+categories: craft
 ---
 
 ## Saturday Brewing

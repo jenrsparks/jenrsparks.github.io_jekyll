@@ -5,7 +5,7 @@ highlighter:      rouge
 plugins: [jekyll-paginate]
 
 # Permalinks
-permalink:        pretty
+permalink:         /:year/:month/:day/:title:output_ext
 
 # Setup
 title:            Jen Sparks
