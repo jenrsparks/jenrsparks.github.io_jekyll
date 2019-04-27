@@ -8,7 +8,7 @@ plugins: [jekyll-paginate]
 permalink:        pretty
 
 # Setup
-title:            Sparks
+title:            Jen Sparks
 tagline:          'A personal blog'
 description:      'Exploring technology, crafts, and the universe.'
 url:              http://jenrsparks.github.io

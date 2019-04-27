@@ -31,9 +31,14 @@
  * Update the foundational and global aspects of the page.
  */
 
-html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+html, body {
+  font-family: "Raleway", sans-serif;
 }
+
+pre {
+  background-color: inherit;
+}
+
 @media (min-width: 48em) {
   html {
     font-size: 16px;
@@ -56,8 +61,7 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(255,255,255,.5);
-  background-color: #202020;
+  color: rgba(255,255,255,.75);
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -72,15 +76,21 @@ html {
 
 /* Sidebar links */
 .sidebar a {
-  color: #fff;
+  color: rgba(255,255,255,.75);
+  font-family: 'Cinzel', serif;
+  font-variant: small-caps!important;
 }
 
 /* About section */
 .sidebar-about h1 {
-  color: #fff;
+  color: rgba(255,255,255,.75);
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
-  font-size: 3.25rem;
+  font-family: 'Cinzel Decorative', serif;
+  font-size: 2rem;
+}
+.sidebar-about p {
+  font-family: 'Cinzel', serif;
+  font-variant: small-caps;
 }
 
 /* Sidebar nav */
@@ -124,6 +134,10 @@ a.sidebar-nav-item:focus {
 .content {
   padding-top:    4rem;
   padding-bottom: 4rem;
+}
+.content h1,.content h2,.content h3,.content h4 {
+  font-family: 'Cinzel', serif;
+  font-variant: small-caps;
 }
 
 @media (min-width: 48em) {
