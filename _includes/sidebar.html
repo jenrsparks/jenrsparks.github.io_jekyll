@@ -1,4 +1,5 @@
 <div class="sidebar">
+  {% include github.html %}
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
@@ -25,8 +26,6 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub</a>
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>

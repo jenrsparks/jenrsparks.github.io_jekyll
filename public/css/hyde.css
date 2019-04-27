@@ -82,7 +82,7 @@ pre {
 }
 
 /* About section */
-.sidebar-about h1 {
+.sidebar-about h1, .sidebar-about h1 * {
   color: rgba(255,255,255,.75);
   margin-top: 0;
   font-family: 'Cinzel Decorative', serif;

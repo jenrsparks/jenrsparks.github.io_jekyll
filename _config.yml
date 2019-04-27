@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         redcarpet
-highlighter:      pygments
+highlighter:      rouge
 
 plugins: [jekyll-paginate]
 
@@ -21,8 +21,5 @@ author:
 paginate: 5
 paginate_path: "page:num"
 
-# Custom vars
-version:          2.1.0
-
 github:
-  repo:           https://github.com/jenrsparks
+  repo:           https://github.com/jenrsparks/jenrsparks.github.io
