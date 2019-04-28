@@ -1,5 +1,5 @@
 ---
-title: Categories
+title: Posts by Category
 layout: page
 ---
 
