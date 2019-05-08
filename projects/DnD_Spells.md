@@ -8,6 +8,8 @@ custom_js: dnd_spells
 
 
 {:.requirements}
+- Data:
+  - [ ] Populate spell data in dnd_spells.yaml
 - Filter buttons:
   - [ ] Build the list based on the contents of the data file
   - [x] Limit or display classes, defaulted to on
@@ -17,7 +19,9 @@ custom_js: dnd_spells
 
 {:.credits}
 Shout-outs to the folks that created some awesome online resources that got me where I was going:
+- [Create a responsive grid layout with no media queries, using CSS Grid](https://andy-bell.design/wrote/create-a-responsive-grid-layout-with-no-media-queries-using-css-grid/)
 - [Checkbox Trickery with CSS](https://codersblock.com/blog/checkbox-trickery-with-css/)
+- [List of Spells from D&D 5th Edition Wikia](https://dnd5e.fandom.com/wiki/List_of_Spells)
 
 ---
 
