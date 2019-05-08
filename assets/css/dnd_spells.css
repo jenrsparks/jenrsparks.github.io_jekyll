@@ -1,0 +1,86 @@
+.wrapper {
+  display: flex;
+}
+
+.auto-grid {
+  --auto-grid-min-size: 12rem;
+  
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(var(--auto-grid-min-size), 1fr));
+  grid-gap: 1rem;
+}
+
+.card {
+  box-shadow: 0.25rem 0.25rem 1rem 0 rgba(0,0,0,0.25);
+  border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+  padding: 0.5rem 1rem 0rem 1rem;
+}
+.abr {
+  font-size: 1.25rem;
+}
+
+h2 .type {
+  font-size: 0.75rem
+}
+
+/** Requirements & credits **/
+
+.credits::before {
+  content: 'Credits:';
+}
+
+.requirements::before {
+  content: 'Requirements:';
+}
+
+.requirements::before, .credits::before {
+  display: block!important;
+  border-bottom: 0.1rem dashed!important;
+}
+
+ul.requirements::before {
+  content: "Requirements:";
+  display: block;
+  background-color: white;
+  border-bottom: 0.1rem dashed;
+  margin-left: -2rem;
+  margin-bottom: 0.5rem;
+}
+
+ul.requirements ul {
+  list-style: none;
+}
+
+/** Buttons **/
+
+input.filters {
+    position: absolute;
+    left: -9999px;
+}
+
+input.filters:checked + label {
+  background-color: green;
+}
+
+label.filters {
+  display: inline-block;
+  position: relative;
+  padding: 0.25rem 0.75rem 0.25rem 0.75rem;
+  margin-bottom: 0.75rem;
+  border: 0.1rem solid #fff;
+  border-radius: 1.2rem;
+  color: #fff;
+  background-color: gray;
+  box-shadow: 0 0 1rem rgba(0, 0, 0, .2);
+  cursor: pointer;
+  user-select: none;
+  transition: background-color .2s, box-shadow .2s;
+}
+
+input.filters:checked + label {
+  background-color: green;
+}
+
+input.filters:checked + label::before {
+  background-color: #fff;
+}

@@ -7,8 +7,14 @@ I'd like to take the opportunity to give credit to the fine folks who have given
 
 ## Web
 
+### Jekyll
+
 - [Hyde theme](http://hyde.getpoole.com/) from [Poole](https://github.com/poole)
-- [Github Corners](http://tholman.com/github-corners/) by [tholman](https://github.com/tholman)
+- [Page-specific assets with Jekyll](https://mattgemmell.com/page-specific-assets-with-jekyll/) by [Matt Gemmell](http://mattgemmell.com/)
+
+### CSS
+
+- [Github Corners](http://tholman.com/github-corners/) by [tholman](https://github.com/tholman) 
 
 ## Development Tools
 
