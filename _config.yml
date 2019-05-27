@@ -23,3 +23,8 @@ paginate_path: "page:num"
 
 github:
   repo:           https://github.com/jenrsparks/jenrsparks.github.io
+
+jekyll_get:
+  - data: spells_phb
+    json: 'https://raw.githubusercontent.com/TheGiddyLimit/TheGiddyLimit.github.io/master/data/spells/spells-phb.json'
+    cache: true
