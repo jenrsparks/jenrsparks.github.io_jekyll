@@ -2,6 +2,7 @@
 layout: post
 title: Memorial Weekend
 categories: [updates]
+date: 2019-05-27 12:35:00
 excerpt_separator: <!--more-->
 ---
 
