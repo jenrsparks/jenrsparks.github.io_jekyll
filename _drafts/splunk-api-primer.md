@@ -22,6 +22,8 @@ TBD
 
 ## Why do we care?
 
+TBD
+
 ## Enter the API
 
 **Article to talk through basic API connectivity, including:**
