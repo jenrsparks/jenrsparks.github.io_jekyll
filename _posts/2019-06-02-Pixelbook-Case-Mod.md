@@ -35,9 +35,9 @@ The button notches really had me nervous, and i'm certain this was the wrong too
 
 Taking a look at the result as a whole, even with my shortcomings aside, it's definitely not perfect; the bottom cover doesn't fit quite right over the keyboard, causing some unpleasant bulging where the cover should lock in more cleanly. In addition, the top panel no longer has clips on all four sides, which means it can just slide off with a relatively minimal amount of force. I accidentally discovered this the first time I picked it up - only slightly terrifying.
 
-|![Power Button Side Gap]({{ '/images/2019-06-02-after-button-side-gap.jpg' | relative_url }}) | The power button opening sits lifted up, not cleanly aligning the clip.|
-|![Volume Rocker Side Gap]({{ '/images/2019-06-02-after-button-side-gap-2.jpg' | relative_url }})| The volume rocker opening seems flush, but as it moves towards the back, the cover raises up again.|
-|![Back View of Top Cover]({{ '/images/2019-06-02-after-back-coverage-gap.jpg' | relative_url }})|Seen when flipped upside down, in the process of moving to tablet mode.|
+| The power button opening sits lifted up, not cleanly aligning the clip.|![Power Button Side Gap]({{ '/images/2019-06-02-after-button-side-gap.jpg' | relative_url }})|
+| The volume rocker opening seems flush, but as it moves towards the back, the cover raises up again.|![Volume Rocker Side Gap]({{ '/images/2019-06-02-after-button-side-gap-2.jpg' | relative_url }})|
+|Seen when flipped upside down, in the process of moving to tablet mode.|![Back View of Top Cover]({{ '/images/2019-06-02-after-back-coverage-gap.jpg' | relative_url }})|
 
 Frankly, I had a clue about all of these going in. But this is a $20 case, and I feel like I've gotten some serious added value with less than an hour of work, including the photos I took.
 
