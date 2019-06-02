@@ -33,6 +33,10 @@ The button notches really had me nervous, and i'm certain this was the wrong too
 
 ![Cover Damage near Volume Rocker]({{ '/images/2019-06-02-after-button-notch-damage.jpg' | relative_url }})
 
+Here's a quick view of the minor gap when folded in tablet mode; while it's annoying, it's worlds better than before the modification.
+
+![Tablet Mode View]({{ '/images/2019-06-02-after-tablet-mode-gap.jpg' | relative_url }})
+
 Taking a look at the result as a whole, even with my shortcomings aside, it's definitely not perfect; the bottom cover doesn't fit quite right over the keyboard, causing some unpleasant bulging where the cover should lock in more cleanly. In addition, the top panel no longer has clips on all four sides, which means it can just slide off with a relatively minimal amount of force. I accidentally discovered this the first time I picked it up - only slightly terrifying.
 
 | The power button opening sits lifted up, not cleanly aligning the clip.|![Power Button Side Gap]({{ '/images/2019-06-02-after-button-side-gap.jpg' | relative_url }})|
