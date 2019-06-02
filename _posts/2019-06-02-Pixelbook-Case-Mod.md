@@ -8,6 +8,8 @@ excerpt_separator: <!--more-->
 
 Since I got my Pixelbook a while back, I've wanted a case that would work for both the laptop and tablet mode. Unfortunately, they really don't seem to exist. The closest I found was the [mCover Hard Shell Case for 12.3" Google Pixelbook Chromebook](https://www.amazon.com/dp/B07D6DPD2N/ref=cm_sw_em_r_mt_dp_U_fKb9Cb3267RRT), but even this wouldn't let you fold it all the way closed for a table mode. At best, you could take the bottom panel off, which required some juggling, and still didn't close right because of the top cover.
 
+<!--more-->
+
 Buried within the comments, though, was a gracious 5-star review along with his instructions on how to [modify the case to use in tablet mode](https://www.amazon.com/gp/customer-reviews/R3G383RE7SZH5A/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B07D6DPD2N). Brilliant! But for a person like me, I wanted more than a couple photos; I was hoping for some detailed directions on how to do it so I didn't ruin my case.
 
 So today, over a month after getting the case, I broke out my dremels (yes, I have more than one) and started getting to work. First step was to measure, align, and make marks for the modifications.
