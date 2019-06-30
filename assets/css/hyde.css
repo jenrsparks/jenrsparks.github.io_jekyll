@@ -59,6 +59,34 @@ pre {
   padding: 2rem 1rem;
   color: rgba(255,255,255,.75);
 }
+
+@media (max-width: 48em) {
+  .sidebar nav a {
+    display: inline;
+  }
+
+  .sidebar nav a:after {
+    content: " |"
+  }
+
+  .sidebar nav a:last-child:after {
+    content: "";
+  }
+
+  .sidebar * {
+    margin-bottom: 0.2rem;
+  }
+
+  .sidebar {
+    padding: 0.5rem;
+  }
+
+  .content.container {
+    padding-top: 1rem!important;
+    padding-bottom: 1rem!important;
+  }
+}
+
 @media (min-width: 48em) {
   .sidebar {
     position: fixed;
