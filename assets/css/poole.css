@@ -155,15 +155,8 @@ abbr[title] {
 /* Code */
 code,
 pre {
-  background-color: inherit;
   font-family: "Roboto Mono", monospace;
-}
-code {
-  padding: .25em .5em;
   font-size: 85%;
-  color: #bf616a;
-  background-color: rgba(0,0,0,.25);
-  border-radius: 3px;
 }
 pre {
   display: block;
