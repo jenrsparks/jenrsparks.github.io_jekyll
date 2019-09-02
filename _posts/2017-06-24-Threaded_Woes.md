@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Threaded Woes
-categories: java
+categories: programming
 excerpt_separator: <!--more-->
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mapping a List to Numbered Fields
-categories: java
+categories: programming
 excerpt_separator: <!--more-->
 ---
 
