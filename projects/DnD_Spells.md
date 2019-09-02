@@ -1,11 +1,9 @@
 ---
 layout: project
-title: D&D Spells
+title: D&D Spell Cards (On-Hold / Incomplete)
 custom_css: dnd_spells
 custom_js: dnd_spells
 ---
-
-
 
 {:.requirements}
 - Data:
